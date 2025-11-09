@@ -1,0 +1,14 @@
+{
+ "Transparent": false,
+ "Accent":"7287fd",
+ "Title": "7287fd",
+ "SearchBar": "4c4f69",
+ "PackagelistSourceRepository": "40a02b",
+ "PackagelistSourceAUR": "209fb5", 
+ "PackagelistHeader": "4c4f69",
+ "SettingsFieldBackground": "e6e9ef",
+ "SettingsFieldText": "4c4f69",
+ "SettingsFieldLabel": "acb0be", 
+ "SettingsDropdownNotSelected": "ccd0da",
+ "Comments": "Catppuccin Latte"
+}
