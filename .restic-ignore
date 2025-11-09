@@ -1,0 +1,5 @@
+.cache
+Trash
+lost+found
+/home/*/.local/share/Trash
+*.bak
